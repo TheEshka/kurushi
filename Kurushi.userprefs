@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Supercyan Character Pack Free Sample/Scripts/SimpleCharacterControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CubeMove.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="7" Column="29" />
+      <File FileName="Assets/Scripts/CreatingLevel.cs" Line="122" Column="14" />
+      <File FileName="Assets/Scripts/PlatformLength.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MassBomb.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FixedButtonSpace.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FixedButtonQ.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FixedButtonE.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="20" Column="19" />
+      <File FileName="Assets/Supercyan Character Pack Free Sample/Scripts/SimpleCharacterControl.cs" Line="45" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

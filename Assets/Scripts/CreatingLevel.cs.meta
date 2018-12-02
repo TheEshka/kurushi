@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4fe02b363b2094b9abbffcde2d00387a
+timeCreated: 1521784139
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basicCube: {instanceID: 0}
+  - greenCube: {instanceID: 0}
+  - blackCube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
